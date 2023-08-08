@@ -1,0 +1,21 @@
+
+
+@import url(component/var.css);
+/* ========== Header and Navigation =========== */
+@import url(component/header.css);
+/* ========== Hero Area =========== */
+@import url(component/hero.css);
+/* ========== Collection =========== */
+@import url(component/collection.css);
+/* ========== Arrivals =========== */
+@import url(component/arrival.css);
+/* ========== Categories Product =========== */
+@import url(component/product.css);
+/* ========== Statistics =========== */
+@import url(component/statistics.css);
+/* ========== Blog =========== */
+@import url(component/blogs.css);
+/* ========== Footer =========== */
+@import url(component/footer.css);
+
+/* ========== User Form =========== */
